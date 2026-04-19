@@ -35,6 +35,13 @@ This repository contains my projects in Artificial Intelligence, Machine Learnin
 - Data visualization
 - Exploratory Data Analysis (EDA)
 
+### Industrial AI Applications
+This repository contains practical AI and data-driven applications.
+
+- Crypto Dashboard → Data visualization and financial analytics  
+- SpaceX Launches → Data analysis and insights  
+- Pokemon Pokedex → Interactive web application 
+
 ---
 
 ## 🛠️ Tech Stack 
@@ -48,6 +55,7 @@ This repository contains my projects in Artificial Intelligence, Machine Learnin
 • Web: HTML, CSS, JavaScript (basic)  
 
 ⚡ This tech stack is continuously evolving as I explore new tools and technologies.
+
 ---
 
 ## 🎯 Research Interests
