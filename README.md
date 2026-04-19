@@ -35,7 +35,7 @@ This repository contains my projects in Artificial Intelligence, Machine Learnin
 - Data visualization
 - Exploratory Data Analysis (EDA)
 
-### Industrial AI Applications
+### 🔹 Industrial AI Applications
 This repository contains practical AI and data-driven applications.
 
 - Crypto Dashboard → Data visualization and financial analytics  
