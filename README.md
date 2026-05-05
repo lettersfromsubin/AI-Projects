@@ -12,7 +12,7 @@ This repository contains my projects in Artificial Intelligence, Machine Learnin
 
 ## 🧠 Project Categories
 
-### 🔹 AI Music Generation Web App (Yumi) *(In Progress, June 2026)*
+### 🔹 AI Music Generation Web App (Yumi) *(In Progress, expected June 2026)*
 - Built a Next.js-based AI music generation web application that creates music from user emotions, preferences, and textual input
 - Designed a guided multi-step UX flow (mood → genre → creative input → generation) to lower the barrier for non-expert users
 - Integrated a Suno API wrapper to generate audio, album artwork, and video outputs
