@@ -17,10 +17,14 @@ This repository contains my projects in Artificial Intelligence, Machine Learnin
 - CNN models
 
 ### 🔹 NLP & Generative AI
-- Tokenization
-- Embeddings
-- Text processing
-- LLM basics
+- Tokenization & text preprocessing  
+- Embeddings & semantic representation (Sentence Transformers)  
+- LLM (BERT, GPT 계열) 활용 및 응용  
+- Retrieval-Augmented Generation (RAG) & vector search (FAISS)  
+- Semantic search & similarity-based retrieval systems  
+- Prompt engineering & LLM workflow design  
+- NLP pipelines for real-world text analysis  
+- Recommender systems (content-based, similarity-based)
 
 ### 🔹 Machine Learning
 - Regression models
