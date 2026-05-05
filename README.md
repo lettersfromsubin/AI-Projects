@@ -28,16 +28,16 @@ This repository contains my projects in Artificial Intelligence, Machine Learnin
 - NLP pipelines for real-world text analysis  
 - Recommender systems (content-based, similarity-based)
 
-###🔹 Machine Learning
+### 🔹 Machine Learning
 - Regression & classification models (scikit-learn)
 - Model training, evaluation & performance optimization
 - Feature engineering & predictive modeling
 
-###🔹 Computer Vision
+### 🔹 Computer Vision
 - Image classification (CNN-based models)
 - Transfer learning & fine-tuning (PyTorch / Keras)
 
-###🔹 Data Analysis
+### 🔹 Data Analysis
 - Data preprocessing & analysis (pandas, numpy)
 - Data visualization (matplotlib, seaborn)
 - Exploratory Data Analysis (EDA)
