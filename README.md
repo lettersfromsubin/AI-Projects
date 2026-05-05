@@ -13,8 +13,10 @@ This repository contains my projects in Artificial Intelligence, Machine Learnin
 ## 🧠 Project Categories
 
 ### 🔹 Deep Learning
-- Neural Networks (PyTorch)
-- CNN models
+- Neural networks implementation (PyTorch)  
+- CNN models for image classification tasks  
+- Model training, evaluation & optimization  
+- Transfer learning & fine-tuning techniques  
 
 ### 🔹 NLP & Generative AI
 - Tokenization & text preprocessing  
@@ -50,13 +52,20 @@ This repository contains practical AI and data-driven applications.
 
 ## 🛠️ Tech Stack 
 
-• Programming: Python  
-• Machine Learning & Data Analysis: SciPy, Scikit-learn, Pandas, NumPy  
-• Deep Learning: PyTorch, TensorFlow, Keras, Neural Networks (CNN, RNN, Autoencoders)  
-• AI & NLP: LLMs, RAG, Transformers (Hugging Face), Prompt Engineering  
-• Data Processing: Text Processing, NLP Pipelines, Data Preprocessing  
-• Tools & Environment: VS Code, Jupyter Notebook, Google Colab, Ubuntu, Docker, Git, GitHub  
-• Web: HTML, CSS, JavaScript (basic)  
+• Programming: Python   
+• Machine Learning & Data Analysis: Scikit-learn, Pandas, NumPy   
+• Deep Learning: PyTorch, TensorFlow (foundations), Keras 
+• AI, NLP & LLM Systems:  LLMs, Transformers (Hugging Face), RAG, Prompt Engineering, LangChain   
+• LLM Systems & Applications:  LLM pipelines, multi-stage reasoning workflows, structured output 
+generation   
+• Retrieval & Representation Learning:  FAISS, Sentence Transformers, embedding-based similarity search   
+• Data Processing & NLP: Text processing, NLP pipelines, feature extraction, dataset streaming (Hugging 
+Face)   
+• Applied AI: Natural Language Processing (NLP), Text Analytics, Recommender Systems   
+• Affective Modeling: Valence-Arousal representation, emotion-space mapping   
+• Tools & Environment: VS Code, Jupyter Notebook, Google Colab, Ubuntu (WSL), Docker, Git, GitHub   
+• Deployment & Prototyping: Gradio, Hugging Face Spaces, LLM-based interactive applications   
+• Web: HTML, CSS (basic)
 
 ⚡ This tech stack is continuously evolving as I explore new tools and technologies.
 
