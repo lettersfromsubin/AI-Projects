@@ -17,7 +17,7 @@ This repository contains my projects in Artificial Intelligence, Machine Learnin
 
 🚀 [Live Demo on Hugging Face](https://huggingface.co/spaces/ALEXJK0901/yumi-ai-music-generator)
 
-🎧[SoundCloud Demo Tracks](https://soundcloud.com/oxl8s6qj4r1i?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 
+🎧 [SoundCloud Demo Tracks](https://soundcloud.com/oxl8s6qj4r1i?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 
 
 - Built a React + Vite-based AI music generation web application that creates personalized music experiences from user emotions, genre preferences, and creative textual input
 - Designed a guided multi-step UX flow (mood → genre → creative input → generation) to make AI-assisted music creation accessible for non-expert users
