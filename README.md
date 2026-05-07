@@ -12,8 +12,9 @@ This repository contains my projects in Artificial Intelligence, Machine Learnin
 
 ## 🧠 Project Categories
 
-### 🔹 AI Music Generation Web App (Yumi) *(In Progress, expected June 2026)*
+### 🔹 AI Music Generation Web App (Yumi) *(MVP Prototype)*
 🔗 [View Yumi Project on GitHub](https://github.com/lettersfromsubin/yumi-ai-music-generator)
+🔗 [🚀 Live Demo on Hugging Face](https://huggingface.co/spaces/ALEXJK0901/yumi-ai-music-generator)
 
 - Built a React + Vite-based AI music generation web application that creates personalized music experiences from user emotions, genre preferences, and creative textual input
 - Designed a guided multi-step UX flow (mood → genre → creative input → generation) to make AI-assisted music creation accessible for non-expert users
