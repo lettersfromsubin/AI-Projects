@@ -15,14 +15,15 @@ This repository contains my projects in Artificial Intelligence, Machine Learnin
 ### 🔹 AI Music Generation Web App (Yumi) *(In Progress, expected June 2026)*
 🔗 [View Yumi Project on GitHub](https://github.com/lettersfromsubin/yumi-ai-music-generator)
 
-- Built a Next.js-based AI music generation web application that creates music from user emotions, preferences, and textual input
-- Designed a guided multi-step UX flow (mood → genre → creative input → generation) to lower the barrier for non-expert users
-- Integrated a Suno API wrapper to generate audio, album artwork, and video outputs
-- Implemented a secure server-side API layer using Next.js API Routes to handle external requests and protect credentials
-- Developed an end-to-end pipeline: user input → AI generation → media rendering (audio player + visual output)
-- Focused on human–AI interaction, transforming users from passive listeners into active content creators
-- Architected a scalable system design to support future integration with official or commercial AI music APIs
-- Explored emotion-aware content generation for personalized music experiences
+- Built a React + Vite-based AI music generation web application that creates personalized music experiences from user emotions, genre preferences, and creative textual input
+- Designed a guided multi-step UX flow (mood → genre → creative input → generation) to make AI-assisted music creation accessible for non-expert users
+- Integrated a hosted ACEMusic API workflow for AI-generated music output and structured prompt-based generation
+- Implemented a secure local backend architecture to proxy external API requests and protect sensitive credentials from frontend exposure
+- Developed an end-to-end interaction pipeline: user emotional input → structured generation request → AI-generated audio result
+- Implemented demo-safe deployment logic separating public demo playback from real API-based generation
+- Focused on Human–AI Interaction (HCI), exploring how generative AI can expand creative expression rather than replace human artists
+- Designed the system architecture to support future integration with commercial AI music generation providers and scalable deployment workflows
+- Explored emotion-aware generative systems for personalized and interactive music experiences
 
 ### 🔹 Deep Learning
 - Neural networks implementation (PyTorch)  
