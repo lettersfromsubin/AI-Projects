@@ -16,7 +16,7 @@ This repository contains my projects in Artificial Intelligence, Machine Learnin
 
 🔗 [View Yumi Project on GitHub](https://github.com/lettersfromsubin/yumi-ai-music-generator)
 
-🚀 [Live Demo on Hugging Face](https://huggingface.co/spaces/ALEXJK0901/yumi-ai-music-generator)
+🚀 [Live Demo on Hugging Face](https://huggingface.co/spaces/ALEXJK0901/yumi-ai-music-creator)
 
 🎧 [SoundCloud Demo Tracks](https://soundcloud.com/oxl8s6qj4r1i?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
