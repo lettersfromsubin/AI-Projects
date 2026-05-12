@@ -6,7 +6,7 @@ This repository contains my projects in Artificial Intelligence, Machine Learnin
 ## 📌 About Me
 - Master's student in Industrial & Management Engineering (Korea University)
 - Focus: AI, Deep Learning, NLP, Decision Support Systems
-- *Interested in applying AI to real-world problems (content, recommendation systems, human-AI interaction)
+- Interested in applying AI to real-world problems (content, recommendation systems, human-AI interaction)
 
 ---
 
