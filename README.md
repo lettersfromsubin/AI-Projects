@@ -12,7 +12,7 @@ This repository contains my projects in Artificial Intelligence, Machine Learnin
 
 ## 🧠 Project Categories
 
-### 🔹 AI Music Generation Web App (Yumi) *(LLM-Integrated MVP Platform)* (updated 05.13)
+### 🔹 AI Music Generation Web App (Yumi) *(LLM-Integrated MVP Platform)* (updated 05.13.2026)
 
 🔗 [View Yumi Project on GitHub](https://github.com/lettersfromsubin/yumi-ai-music-generator)
 
