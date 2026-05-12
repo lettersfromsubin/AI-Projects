@@ -20,16 +20,14 @@ This repository contains my projects in Artificial Intelligence, Machine Learnin
 
 🎧 [SoundCloud Demo Tracks](https://soundcloud.com/oxl8s6qj4r1i?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
-- Developed a Korean-first AI music generation web application that transforms user emotions, genre preferences, and creative textual input into personalized music generation workflows
-- Built a React + Vite frontend with a guided multi-step UX flow (mood → genre → creative input → generation → playback) designed for intuitive Human–AI creative interaction
-- Integrated a hosted ACEMusic generation pipeline with structured prompt engineering and controllable music-generation parameters
-- Implemented a secure Node.js backend architecture to proxy external API requests and prevent sensitive API credential exposure in the browser
-- Designed and deployed a Docker-based Hugging Face Space architecture supporting real-time AI music generation with backend-side secret management
-- Developed an end-to-end interaction pipeline: emotional user input → structured generation request → AI-generated audio, lyrics, metadata, and visual assets
-- Implemented dual deployment modes separating public demo playback from real API-powered generation workflows
-- Built subtitle-style lyric synchronization, generated album-cover previews, downloadable asset support, and provider-title fallback logic
-- Designed the system with scalability in mind for future integration with commercial AI music-generation providers and intelligent recommendation systems
-- Explored Human–AI Interaction (HCI) and emotionally aware generative systems for personalized creative experiences
+- Developed a Korean-first AI music generation web application that creates personalized music experiences from mood, genre preferences, lyrics, and creative textual input
+- Built a React + Vite frontend with a guided multi-step music generation workflow for intuitive Human–AI creative interaction
+- Integrated a hosted ACEMusic API pipeline through a secure Node.js backend architecture that prevents direct exposure of API credentials in the browser
+- Implemented end-to-end music generation flow including user input processing, structured generation requests, generated audio playback, lyrics visualization, and album-cover preview generation
+- Designed and deployed a Docker-based Hugging Face Space environment supporting server-side AI music generation workflows
+- Implemented demo-safe deployment logic separating public demo playback from real API-powered generation
+- Built configurable generation controls including mood, genre, vocal tone, duration, sound detail, and title-generation modes
+- Explored Human–AI Interaction (HCI) and emotionally aware generative systems for AI-assisted creative expression
 
 ### 🔹 Deep Learning
 - Neural networks implementation (PyTorch)  
