@@ -12,22 +12,24 @@ This repository contains my projects in Artificial Intelligence, Machine Learnin
 
 ## 🧠 Project Categories
 
-### 🔹 AI Music Generation Web App (Yumi) *(MVP Prototype)*
+### 🔹 AI Music Generation Web App (Yumi) *(LLM-Integrated MVP Platform)*
+
 🔗 [View Yumi Project on GitHub](https://github.com/lettersfromsubin/yumi-ai-music-generator)
 
 🚀 [Live Demo on Hugging Face](https://huggingface.co/spaces/ALEXJK0901/yumi-ai-music-generator)
 
-🎧 [SoundCloud Demo Tracks](https://soundcloud.com/oxl8s6qj4r1i?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 
+🎧 [SoundCloud Demo Tracks](https://soundcloud.com/oxl8s6qj4r1i?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
-- Built a React + Vite-based AI music generation web application that creates personalized music experiences from user emotions, genre preferences, and creative textual input
-- Designed a guided multi-step UX flow (mood → genre → creative input → generation) to make AI-assisted music creation accessible for non-expert users
-- Integrated a hosted ACEMusic API workflow for AI-generated music output and structured prompt-based generation
-- Implemented a secure local backend architecture to proxy external API requests and protect sensitive credentials from frontend exposure
-- Developed an end-to-end interaction pipeline: user emotional input → structured generation request → AI-generated audio result
-- Implemented demo-safe deployment logic separating public demo playback from real API-based generation
-- Focused on Human–AI Interaction (HCI), exploring how generative AI can expand creative expression rather than replace human artists
-- Designed the system architecture to support future integration with commercial AI music generation providers and scalable deployment workflows
-- Explored emotion-aware generative systems for personalized and interactive music experiences
+- Developed a Korean-first AI music generation web application that transforms user emotions, genre preferences, and creative textual input into personalized music generation workflows
+- Built a React + Vite frontend with a guided multi-step UX flow (mood → genre → creative input → generation → playback) designed for intuitive Human–AI creative interaction
+- Integrated a hosted ACEMusic generation pipeline with structured prompt engineering and controllable music-generation parameters
+- Implemented a secure Node.js backend architecture to proxy external API requests and prevent sensitive API credential exposure in the browser
+- Designed and deployed a Docker-based Hugging Face Space architecture supporting real-time AI music generation with backend-side secret management
+- Developed an end-to-end interaction pipeline: emotional user input → structured generation request → AI-generated audio, lyrics, metadata, and visual assets
+- Implemented dual deployment modes separating public demo playback from real API-powered generation workflows
+- Built subtitle-style lyric synchronization, generated album-cover previews, downloadable asset support, and provider-title fallback logic
+- Designed the system with scalability in mind for future integration with commercial AI music-generation providers and intelligent recommendation systems
+- Explored Human–AI Interaction (HCI) and emotionally aware generative systems for personalized creative experiences
 
 ### 🔹 Deep Learning
 - Neural networks implementation (PyTorch)  
