@@ -10,6 +10,18 @@ This repository contains my projects in Artificial Intelligence, Machine Learnin
 
 ---
 
+## 👨‍💻 Portfolio Information
+
+This portfolio contains individual projects, research prototypes, and practical AI implementations.
+
+Role and contribution information are provided for major individual projects where applicable.
+
+Project implementations, repositories, and technical details can be explored within the portfolio folders and through the main GitHub portfolio page:
+
+🔗 Main GitHub Portfolio: https://github.com/lettersfromsubin
+
+---
+
 ## 🧠 Project Categories
 
 ### 🔹 AI Music Generation Web App (Yumi) (LLM-Integrated MVP Platform) 
