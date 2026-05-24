@@ -23,11 +23,18 @@ Research / working languages:
 - English (technical documentation, AI development, coursework, global online communities)
 - Russian (native)
 
+Research themes:
+- Conversational AI recommendation systems
+- User trust, emotional response, and behavioral intention modeling
+- Human-AI interaction (HCI) and explainable recommendation interfaces
+- Fan insight discovery and entertainment platform user experience research
+- AI-driven content intelligence systems for music and entertainment platforms
+
 Additional interests:
-- Fan insight discovery and content intelligence systems
-- Human-AI interaction and entertainment technology
-- Emotion-aware recommendation systems
-- AI applications for media and entertainment platforms
+- Entertainment technology and AI product innovation
+- Emotion-aware intelligent systems
+- Human-centered AI for media platforms
+- Generative AI applications for entertainment and digital content
 
 ---
 
