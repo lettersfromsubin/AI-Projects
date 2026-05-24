@@ -131,13 +131,6 @@ Face)
 
 ---
 
-## 🎯 Research Interests
-
-⚡ Generative AI for music and content creation  
-⚡ Emotion-aware AI systems  
-⚡ Human-AI interaction  
-⚡ LLM-based decision support systems  
-
-*I am particularly interested in developing and prototyping models for emotion-aware music and voice generation, and extending these approaches toward real-world AI applications.
+*Long-term direction: building human-centered AI systems for entertainment, content intelligence, and real-world entertainment and media applications.*
 
 
