@@ -10,17 +10,34 @@ This repository contains my projects in Artificial Intelligence, Machine Learnin
 
 ---
 
+## 🌏 Interdisciplinary & Research Context
+
+My work combines Artificial Intelligence, Cultural Studies, and Entertainment Technology, with interests in fan understanding, content intelligence, and user-centered AI systems.
+
+My research and development experience spans multilingual environments and cross-cultural content understanding.
+
+Research / working languages:
+- Korean (TOPIK Level 5, Korea University Language Center Level 6)
+- English (technical documentation, AI development, coursework)
+- Russian (native)
+
+Additional interests:
+- Fan insight discovery and content intelligence systems
+- Human-AI interaction and entertainment technology
+- Emotion-aware recommendation systems
+- AI applications for media and entertainment platforms
+
+---
+
 ## 👨‍💻 Portfolio Information
 
 This portfolio contains individual projects, research prototypes, and practical AI implementations.
 
-Role and contribution information are provided for major individual projects where applicable.
+Role and contribution details are provided for major individual projects where applicable.
 
-Project implementations, repositories, and technical details can be explored within the portfolio folders and through the main GitHub portfolio page:
+Project repositories, implementations, and technical details can be explored within portfolio folders and through the main GitHub portfolio page:
 
 🔗 Main GitHub Portfolio: https://github.com/lettersfromsubin
-
----
 
 ## 🧠 Project Categories
 
