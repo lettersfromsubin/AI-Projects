@@ -39,6 +39,8 @@ Project repositories, implementations, and technical details can be explored wit
 
 🔗 Main GitHub Portfolio: https://github.com/lettersfromsubin
 
+---
+
 ## 🧠 Project Categories
 
 ### 🔹 AI Music Generation Web App (Yumi) (LLM-Integrated MVP Platform) 
