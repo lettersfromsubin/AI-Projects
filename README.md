@@ -14,11 +14,13 @@ This repository contains my projects in Artificial Intelligence, Machine Learnin
 
 My work combines Artificial Intelligence, Cultural Studies, and Entertainment Technology, with interests in fan understanding, content intelligence, and user-centered AI systems.
 
+Academic background includes interdisciplinary exposure to communication, public relations, and marketing-related perspectives alongside cultural studies and AI development.
+
 My research and development experience spans multilingual environments and cross-cultural content understanding.
 
 Research / working languages:
 - Korean (TOPIK Level 5, Korea University Language Center Level 6)
-- English (technical documentation, AI development, coursework)
+- English (technical documentation, AI development, coursework, global online communities)
 - Russian (native)
 
 Additional interests:
